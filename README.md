@@ -13,7 +13,7 @@ Missing values are filled, and categorical data (like Sex, Embarked) is encoded 
 🧠 Model
 Naive Bayes (GaussianNB) from sklearn
 Trained on cleaned features
-Evaluated with accuracy and a pink confusion matrix 💗
+Evaluated with accuracy
 
 ✅ Output
 ~78% accuracy (varies)
